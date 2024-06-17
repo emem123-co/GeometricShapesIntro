@@ -17,3 +17,5 @@ internal class Program
         Console.WriteLine($"Perimeter 2 is {q2.Perimeter()}.");
     }
 }
+
+//this .cs file has no changes compared to the previous version (without using inheritence) but all other classes have significantly less code.
